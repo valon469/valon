@@ -1,0 +1,649 @@
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTK HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/784.ts
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania",KS:RTK HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1905.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTK 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/39.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTK 2
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/180.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTK 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/38.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTK 3
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/181.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTK 4
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/37.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTK 4
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/182.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTSH HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/474.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/231.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/703.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTSH 3
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/910.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/702.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTSH 24 HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/909.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH 24
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/700.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTSH Plus
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/906.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH Plus
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/701.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTSH Shqip
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/907.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH Shqip
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/698.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTSH Muzike
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/908.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH Muzika
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/696.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH Film
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/699.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTSH Sport HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/476.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:RTSH Sport
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/695.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTV 21
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/2.ts
+#EXTINF:0 tvg-id="RTV21HD.al" group-title="Albania",KS:RTV 21 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/36.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:KTV HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/826.ts
+#EXTINF:0 tvg-id="KtvHD.in" group-title="Albania",KS:KTV HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/34.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Klan Kosova HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/827.ts
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",KS:Klan Kosova HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/33.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:T 7
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/578.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:T7 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/27.ts
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Channels",KS:TVDukagjini
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/100.ts
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Albania",KS:TVDukagjini
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/26.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Top Channel
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/5.ts
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL:TOP Channel HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/31.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Klan
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/7.ts
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL:Klan TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/29.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MK:Alsat-M
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/34.ts
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",MK:Alsat M
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/23.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MK:RTV21 M
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/209.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",MK:RTV 21 M
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/35.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Klan M
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/929.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Klan Plus
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/234.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Klan Plus
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/28.ts
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",AL:Vizion Plus HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/24.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Vision+
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/8.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Top News
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/37.ts
+#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",AL:Top News
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/112.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:News 24
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/950.ts
+#EXTINF:0 tvg-id="news24" group-title="Albania",AL:News 24
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/113.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:OraNews
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/241.ts
+#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",AL:ORA News
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/108.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ABC News
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/39.ts
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",AL:ABC News
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/109.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Nje
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/49.ts
+#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Albania",AL:Film Një HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/12.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Dy
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/50.ts
+#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Albania",AL"Film Dy HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/11.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Aksion
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/45.ts
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania",AL:Film Aksion
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/9.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Thriller
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/48.ts
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",AL:Film Thriller
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/5.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Autor
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/43.ts
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",AL:Film Autor
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/7.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Drame
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/44.ts
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL:Film Drame
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/6.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Hits
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/47.ts
+#EXTINF:0 tvg-id="FilmHits.al" group-title="Albania",AL:Film Hits
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/10.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Film Comedy
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/46.ts
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania",AL:Film Komedi
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/8.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Euro Film
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/310.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:EuroFilm
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/67.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Digi Gold 1
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/374.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Digi Gold 1
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/4.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Digi Gold 2
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/375.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Digi Gold 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/3.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Digi Gold 3
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/376.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Digi Gold 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/2.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Digi Gold 4
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/377.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Family HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/905.ts
+#EXTINF:0 tvg-id="PlusHD.al" group-title="Albania",AL:Family HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/13.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Fantasy
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/15.ts
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",AL:Tring Fantasy
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/61.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Comedy
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/13.ts
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",AL:Tring Comedy
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/62.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Life
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/12.ts
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",AL:Tring Life
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/60.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Super
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/11.ts
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Albania",AL:Tring Super
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/64.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Max
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/10.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Jolly HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/69.ts
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",AL:Jolly HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/67.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Tring Action
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/63.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Milenium 1
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1875.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Milenium 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1876.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Milenium 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1877.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Milenium 4
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1878.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Gold
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1880.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Aksion MAX
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1885.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Hits
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1879.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Fantasy
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1881.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Family
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1882.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Super
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1874.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Comedy
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1883.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kinema Classics
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1884.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Premium 1 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1886.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Premium 2 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1887.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Premium 3 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1888.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Premium 4 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1889.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Western HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1896.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Action HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1895.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Thriller HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1897.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Sci-Fi HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1898.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Dark HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1893.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Filma24
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1890.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Romance HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1899.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Family HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1891.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Comedy HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1894.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:X Drama HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1892.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Novela
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/327.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Sky Novela
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/705.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Aksion AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/328.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Max AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/329.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Sky Max
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/87.ts
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Channels",AL:Sky Drame AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/332.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Sky Dramë
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/85.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Komedi AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/330.ts
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania",AL:Sky Komedi
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/86.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Krimi
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/333.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ART Kino 1
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1869.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ART Kino 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1870.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ART Kino 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1871.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Sky 7
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/89.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky 7 AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/698.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Premier  1
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/266.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Premier 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/265.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS"Premier 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/264.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Premier 4
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/263.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ShqipTv Aksion
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/903.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ShqipTV Cinema
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/901.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ShqipTV Film HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/904.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ShqipTv Horror HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/900.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ShqipTv Fantasy HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/902.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:T
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/40.ts
+#EXTINF:0 tvg-id="T.al" group-title="Albania",AL:T HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/14.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Shqip
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/14.ts
+#EXTINF:0 tvg-id="TringShqip.al" group-title="Albania",AL:Tring Shqip
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/66.ts
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Albania",AL:FOX Movies
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/90.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Fox Crime
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/29.ts
+#EXTINF:0 tvg-id="fox-crime" group-title="Albania",AL:FOX Crime
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/91.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:FOX
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/160.ts
+#EXTINF:0 tvg-id="fox-crime" group-title="Albania",AL:FOX
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/614.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Fox Life
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/30.ts
+#EXTINF:0 tvg-id="fox-life" group-title="Albania",AL:FOX Life
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/92.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:3Plus HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/54.ts
+#EXTINF:0 tvg-id="3Plus.al" group-title="Albania",AL:3Plus
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/68.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TDC
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/1022.ts
+#EXTINF:0 tvg-id="Smile.al" group-title="Albania",AL:Tring Smile
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/775.ts
+#EXTINF:0 tvg-id="Stinet.al" group-title="Albania",AL:Stinet
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/911.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Stinet
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/166.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ART Doku 1 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1872.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ART Doku 2 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1873.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Explorer History
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/51.ts
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania",AL:Explorer Histori
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/104.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Explorer Natyra
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/53.ts
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL:Explorer Natyra
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/105.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Explorer Shkence
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/52.ts
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",AL:Explorer Shkence
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/106.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring History
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/24.ts
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",AL:Tring History
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/101.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring World
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/26.ts
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",AL:Tring World
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/103.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Planet
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/25.ts
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",AL:Tring Planet
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/102.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Histori AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/326.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Sky Histori
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/174.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Planet AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/325.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Sky Planet
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/172.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Shkence AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/324.ts
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="Albania",AL:SuperSport M 1
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/59.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SuprtSport B 1
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/63.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SuprtSport B 2
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/64.ts
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="Albania",AL:SuperSport M 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/58.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SuperSport B 3
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/65.ts
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="Albania",AL:SuperSport M 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/57.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SuperSport B 4
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/66.ts
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="Albania",AL:SuperSport M 4
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/56.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SuperSport B 5 HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/360.ts
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="Albania",AL:SuperSport M 5
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/55.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:SuperSport B 6 HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/361.ts
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="Albania",AL:SuperSport M 6
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/54.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS: Kujtesa Sport 1 HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/883.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kujtesa Sport 1
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/45.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS: Kujtesa Sport 2 HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/884.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kujtesa Sport 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/44.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS: Kujtesa Sport 3 HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/885.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kujtesa Sport 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/43.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS: Kujtesa Sport 4 HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/886.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kujtesa Sport 4
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/42.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kujtesa Sport 5
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/41.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Sport News
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/28.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Sport 1
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/96.ts
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",AL:Tring Sport 1 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/49.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Sport 2
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/97.ts
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",AL:Tring Sport 2 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/48.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Sport 3
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/98.ts
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",AL:Tring Sport 3 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/47.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Sport 4
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/99.ts
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",AL:Tring Sport 4 HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/46.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Art Sport 1
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1866.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Art Sport 2
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1867.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Art Sport 3
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1868.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tring Tring
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/18.ts
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",AL:Tring Tring
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/99.ts
+#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",AL:Tip TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/95.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Tip TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/19.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Bang Bang
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/41.ts
+#EXTINF:0 tvg-id="BangBang.al" group-title="Albania",AL:Bang Bang
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/221.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Cufo
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/42.ts
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania",AL:Cufo TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/100.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Baby Tv
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/519.ts
+#EXTINF:0 tvg-id="baby-tv" group-title="Albania",AL:Baby Tv
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/70.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Duck TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/518.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Kids
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/517.ts
+#EXTINF:0 tvg-id="Kids.br" group-title="Albania",AL:Kids
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/98.ts
+#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL:Living HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/76.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Tom & Jerry
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/758.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTV 21 Junior
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/69.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Junior TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/235.ts
+#EXTINF:0 tvg-id="Sofia.al" group-title="Albania",AL:Sofia
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/97.ts
+#EXTINF:0 tvg-id="Junior.de" group-title="Albania",AL:Junior
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/96.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:TV 21 Junior
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/633.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:ShqipTv  Stupcat HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/391.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Cka ka shpija
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/395.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:O sa mire
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/394.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Çifteli
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/182.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Popullore
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/181.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Islam TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/227.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ShqipTV Islam
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/228.ts
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Albania",KS:Peace TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/229.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTV Pendimi
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1906.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTV Zëri
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/931.ts
+#EXTINF:0 tvg-id="opoja.tv" group-title="Albania",KS:Tv Opoja
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/763.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:TV Llapi
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/21.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:TV Dielli
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/955.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:TV Ilirida
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/912.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:TV Sharri
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1078.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ALB Music
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/778.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL:Syri Blue
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/953.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Syri Vision
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/928.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",MK:TV Tetova
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/927.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",MK:Shenja TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/1095.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Besa TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/20.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Dasma TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/15.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:TV Mitrovica
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/16.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Kafeneja Jone 24/7
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/225.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:ShqipTV Humore
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/226.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Stupcat Egjelli 24/7
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/224.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTV Toksore
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/913.ts
+#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania",KS:RTV 21 Popullore
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/175.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:RTV 21 Mix HD
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/18.ts
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Albania",KS:My Music
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/180.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:EuroAL
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/822.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:AMOL TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/75.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Elrodi TV
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/74.ts
+#EXTINF:0 tvg-id="BBF.al" group-title="Albania",AL:BBF
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/176.ts
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",AL:Folk +
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/73.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",KS:Folklorit
+http://tv.extraiptv.eu:888/live/Meti1Pod/VNHM4aoK7Y/72.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTV21Mix
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/188.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTV21 Popullore
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/22.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:RTV21Plus
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/81.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Star TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/334.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Televizioni R
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/185.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:TV Llapi
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/538.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Folk+
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/27.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ELRODI
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/23.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:ON TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/56.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Balkanika AL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/336.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Smile
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/17.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Living
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/21.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Muse
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/61.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Kanal 7
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/31.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al Jazeera Ballkan
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/911.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:BBF
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/60.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:My Music
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/219.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Dasma
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/91.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Islam Channel
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/58.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS: Ilahi Nasheed Channel
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/398.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Peace TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/82.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:TV Zico
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/210.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Shenja TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/55.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:ALB QIFTELI
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/525.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Alb Western
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/576.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:TOP Hite 2016/17
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/515.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KS:Zana Food HD
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/521.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al:Zjarr TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/523.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TV Opoja
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/212.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TV Diaspora
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/218.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Arta TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/33.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTV Bujanoci
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/93.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTV Presheva
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/92.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV ALDI
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/1021.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Pendimi
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/1011.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ISTOGU CHANNEL
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/1003.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:ZERI TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/1004.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TV Besa
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/102.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TV koha
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/90.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:FirstChannel
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/163.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TV Mitrovica
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/101.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:MRT 2
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/35.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Rrokum TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/32.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV Fontana
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/1001.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TV Liria
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/164.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:TribunaChannel
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/236.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Drita TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/575.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:A-Mol
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/260.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:MTV Kosova
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/262.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Turbo Channel
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/261.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTV Zik
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/867.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Medina TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/715.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Mekke TV
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/714.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:RTV ISLAM
+http://cmskos.bekaks.net:777/live/BesartBlakqori/yja1/716.ts
+
+
